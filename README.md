@@ -26,3 +26,6 @@ workTree -> staging -> {commit}-> repo
 *     |> Tracked  
 *         |>Modified
 *         |>UnModified
+
+bransh :مجموعه من الكوميتس بتشاور علي بعضها
+=> git Add Now 
